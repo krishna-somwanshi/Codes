@@ -21,8 +21,7 @@ int main()
 		binary[index] = rem;
 	}
 	cout<<"Binary Code = ";
-	for(i=index;i>=0;i--)
-	{
-		cout<<binary[i];
-	}
+
+	for(int j=index; j>=0;j--)
+		cout<<binary[j];
 }
