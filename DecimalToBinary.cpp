@@ -22,6 +22,6 @@ int main()
 	}
 	cout<<"Binary Code = ";
 
-	for(int j=index; j>=0;j--)
-		cout<<binary[j];
+	for(int k=index;k>=0;k--)
+		cout<<binary[k];
 }
