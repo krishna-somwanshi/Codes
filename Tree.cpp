@@ -49,9 +49,14 @@ int main()
 	
 	p=newnode(100);
 	insertnode(p,150);
-	insertnode(p,500);
+	insertnode(p,120);
 	insertnode(p,24);
 	insertnode(p,50);
-	
+	insertnode(p,32);
+	insertnode(p,152);
+	insertnode(p,925);
+
+
+
 	traversal1(p);
 }
