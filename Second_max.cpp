@@ -4,7 +4,7 @@ using namespace std;
 
 int main()
 {
-	int arr [ 9 ] = { 10 , 1056 , 56 , 23 , 56 , 61 , 95 , 48 , 100};
+	int arr [ 9 ] = { 10 , 1056 , 56 , 23 , 56 , 61 , 95 , 66 , 140};
 	int max = arr [ 0 ] ;
 	int second_max = arr [ 1 ] ;
 	int third_hightst=arr[2];
