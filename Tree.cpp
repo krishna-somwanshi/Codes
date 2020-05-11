@@ -55,6 +55,8 @@ int main()
 	insertnode(p,32);
 	insertnode(p,152);
 	insertnode(p,925);
+	insertnode(p,25);
+	insertnode(p,65);
 
 
 
